@@ -1,2 +1,2 @@
 # air
-This is my perosnal repository which will contain common problem's solution.
+This is my personal repository which will contain common problem's solution.
